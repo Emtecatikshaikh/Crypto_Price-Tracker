@@ -1,0 +1,17 @@
+2023-01-06 18:42:05,825 INFO  Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7024
+2023-01-06 18:42:05,883 INFO  Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5238
+2023-01-06 18:42:05,891 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+2023-01-06 18:42:05,895 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+2023-01-06 18:42:05,898 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\atik.shaikh\OneDrive - Emtec Inc\Desktop\mui-react_spa\Billing-Playground\CryptoAPI\
+2023-01-06 18:42:16,807 INFO  Microsoft.EntityFrameworkCore.Database.Command.? [?] - MESSAGE: Executed DbCommand (71ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [Cryptos] AS [c]
+2023-01-06 18:42:16,932 INFO  Microsoft.EntityFrameworkCore.Database.Command.? [?] - MESSAGE: Executed DbCommand (6ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [Cryptos] AS [c]
+2023-01-06 18:42:30,129 INFO  Microsoft.EntityFrameworkCore.Database.Command.? [?] - MESSAGE: Executed DbCommand (13ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [Cryptos] AS [c]
+2023-01-06 18:42:32,024 INFO  Microsoft.EntityFrameworkCore.Database.Command.? [?] - MESSAGE: Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [Cryptos] AS [c]

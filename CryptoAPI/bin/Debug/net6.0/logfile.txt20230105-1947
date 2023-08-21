@@ -1,0 +1,14 @@
+2023-01-05 19:47:33,446 INFO  Microsoft.EntityFrameworkCore.Database.Command.? [?] - MESSAGE: Executed DbCommand (4ms) [Parameters=[@__id_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Name], [c].[Symbol], [c].[ath], [c].[atl], [c].[image], [c].[market_cap_rank]
+FROM [Cryptos] AS [c]
+WHERE [c].[Id] = @__id_0
+2023-01-05 19:47:33,510 INFO  Microsoft.EntityFrameworkCore.Database.Command.? [?] - MESSAGE: Executed DbCommand (14ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [Cryptos] AS [c]
+2023-01-05 19:47:33,527 INFO  Microsoft.EntityFrameworkCore.Database.Command.? [?] - MESSAGE: Executed DbCommand (1ms) [Parameters=[@__id_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Name], [c].[Symbol], [c].[ath], [c].[atl], [c].[image], [c].[market_cap_rank]
+FROM [Cryptos] AS [c]
+WHERE [c].[Id] = @__id_0
+2023-01-05 19:47:33,530 INFO  Microsoft.EntityFrameworkCore.Database.Command.? [?] - MESSAGE: Executed DbCommand (2ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name]
+FROM [Cryptos] AS [c]

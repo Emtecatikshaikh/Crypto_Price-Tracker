@@ -1,0 +1,1 @@
+export const userApi = 'https://localhost:7024/api/Crypto';

@@ -1,0 +1,8 @@
+2023-01-05 18:46:39,121 INFO  Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7024
+2023-01-05 18:46:39,209 INFO  Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5238
+2023-01-05 18:46:39,222 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+2023-01-05 18:46:39,229 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+2023-01-05 18:46:39,232 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\atik.shaikh\OneDrive - Emtec Inc\Desktop\mui-react_spa\API\CryptoAPI\
+2023-01-05 18:46:44,616 INFO  Microsoft.EntityFrameworkCore.Database.Command.? [?] - MESSAGE: Executed DbCommand (54ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [c].[Id], [c].[Name], [c].[Symbol], [c].[ath], [c].[atl], [c].[image], [c].[market_cap_rank]
+FROM [Cryptos] AS [c]

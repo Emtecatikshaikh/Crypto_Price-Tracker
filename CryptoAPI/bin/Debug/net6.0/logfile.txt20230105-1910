@@ -1,0 +1,5 @@
+2023-01-05 19:10:27,071 INFO  Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7024
+2023-01-05 19:10:27,115 INFO  Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5238
+2023-01-05 19:10:27,125 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+2023-01-05 19:10:27,129 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+2023-01-05 19:10:27,132 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\atik.shaikh\OneDrive - Emtec Inc\Desktop\mui-react_spa\API\CryptoAPI\

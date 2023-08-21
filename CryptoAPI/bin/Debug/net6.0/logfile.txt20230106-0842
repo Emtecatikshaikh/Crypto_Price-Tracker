@@ -1,0 +1,8 @@
+2023-01-06 08:42:07,840 INFO  Microsoft.EntityFrameworkCore.Database.Command.? [?] - MESSAGE: Executed DbCommand (35ms) [Parameters=[@__id_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Name], [c].[Symbol], [c].[ath], [c].[atl], [c].[image], [c].[market_cap_rank]
+FROM [Cryptos] AS [c]
+WHERE [c].[Id] = @__id_0
+2023-01-06 08:42:22,104 INFO  Microsoft.EntityFrameworkCore.Database.Command.? [?] - MESSAGE: Executed DbCommand (3ms) [Parameters=[@__id_0='?' (Size = 450)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [c].[Id], [c].[Name], [c].[Symbol], [c].[ath], [c].[atl], [c].[image], [c].[market_cap_rank]
+FROM [Cryptos] AS [c]
+WHERE [c].[Id] = @__id_0
