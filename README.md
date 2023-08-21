@@ -1,3 +1,6 @@
+# Crypto_Price-Tracker
+Detailed cryptocurrency metrics display for the Crypto which could be selected by the user
+
 # Introduction 
 Shell SPA : This project is built with the motive to show information in a more structured form like in the form of table which could be nested under specific sub-menus of a DropDown.
 
